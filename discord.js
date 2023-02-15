@@ -2,7 +2,7 @@ import {Channel, Client, Guild} from "discord.js";
 
 
 
-const token = 'NzgyNjc0ODA4OTE5NTU2MTM3.X8Potw.Qsn8pg8hj9vTeUe5cglgMwsMmTk';
+const token = 'token';
 const prefix = '?';
 const delayPresence = 15000;
 
