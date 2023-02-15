@@ -8,7 +8,7 @@ const r0bsom = new Client({
         },
     identity: {
         username: 'R0BSOM',
-        password: 'oauth:hb6ricul860ysf0cdgc9ajse67dln1',
+        password: 'oauth:token',
     },
     channels: ['Reavik']
 });
